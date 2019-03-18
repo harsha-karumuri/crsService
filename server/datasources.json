@@ -2,5 +2,15 @@
   "db": {
     "name": "db",
     "connector": "memory"
+  },
+  "CRS_DB": {
+    "host": "localhost",
+    "port": 0,
+    "url": "mssql://sa:reallyStrongPwd123@localhost/CRS",
+    "database": "CRS",
+    "password": "reallyStrongPwd123",
+    "name": "CRS_DB",
+    "user": "sa",
+    "connector": "mssql"
   }
 }
