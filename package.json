@@ -11,6 +11,7 @@
     "posttest": "npm run lint"
   },
   "dependencies": {
+    "@angular/animations": "^7.2.10",
     "compression": "^1.0.3",
     "cors": "^2.5.2",
     "helmet": "^3.10.0",
@@ -18,6 +19,9 @@
     "loopback-boot": "^2.6.5",
     "loopback-component-explorer": "^6.2.0",
     "loopback-connector-mssql": "^3.3.0",
+    "nodemon": "^1.18.10",
+    "primeicons": "^1.0.0",
+    "primeng": "^7.1.0",
     "serve-favicon": "^2.0.1",
     "strong-error-handler": "^3.0.0"
   },

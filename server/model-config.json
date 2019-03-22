@@ -35,6 +35,22 @@
     "dataSource": "db",
     "public": false
   },
+  "CourseData": {
+    "dataSource": "CRS_DB",
+    "public": true
+  },
+  "CoursesOffered": {
+    "dataSource": "CRS_DB",
+    "public": true
+  },
+  "StudentData": {
+    "dataSource": "CRS_DB",
+    "public": true
+  },
+  "StudentPastData": {
+    "dataSource": "CRS_DB",
+    "public": true
+  },
   "Message": {
     "dataSource": null
   }
